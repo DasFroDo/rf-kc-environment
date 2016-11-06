@@ -47,10 +47,10 @@ Temporary Items
 .apdisk
 
 #UE4 Files
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
+Binaries
+DerivedDataCache
+Intermediate
+Saved
 *.sdf
 *.suo
 *.sln
